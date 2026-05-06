@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27438758/README.md)
 # WIPEOUT 🦠 - ELF64 File Infector & Wiper
 
 **Course**: Computer Organization and Assembly Language (COAL)
